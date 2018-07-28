@@ -1,0 +1,4 @@
+# roi_pooling_for_win_vs2017
+the roi pooling code of faster r-cnn for pytorch and compiling in the vs2017 developer command prompt
+1.run `./src/cuda/build.bat` in the vs developer command prompt to generate the cuda .obj file
+2.run 'python ./build.py' to generate the libary for roi pooling in pytorch
